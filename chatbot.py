@@ -83,8 +83,7 @@ class JordanChatBot(MDApp):
         elif value == "What can you do!" or value == "kya kar sakte ho tum" or value == "kya karoge":
             response = "Joh bhi tum bolo !!"
 
-        elif value == "gf banwa de" or value == "GF banwa de" or value == "Gf banwade" or value == "gf chahiye" or value == "bandi chahiye":
-            response = "Nahin milegi !!"
+        
 
         elif value == "what is chatbot" or value == "chatbot kya hai" or value == "chatbot":
             response = "An AI chatbot (Artificial Intelligence chatbot) is a chatbot that’s powered by artificial intelligence (AI). Unlike regular chatbots, AI chatbots are able to understand user queries through natural language processing (NLP) and can give intelligent answers to them. "
